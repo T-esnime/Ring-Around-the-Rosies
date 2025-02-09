@@ -14,4 +14,9 @@ Ciphertext = KR1BI{CAhbs_4fW_MkrLC_Xg_kTu}
 | difference |  5   |  6   |  $   |  8   |  9   |
 
 ***
+## Python Code
 ![carbon](https://github.com/user-attachments/assets/9756ac9b-c03a-4255-85bc-a23d46b2e22f)
+
+***
+## The flag 
+FL1TZ{ROund_4nD_RouND_We_gOo}
