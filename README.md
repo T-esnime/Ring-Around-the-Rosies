@@ -4,7 +4,7 @@
 
 Ciphertext = KR1BI{CAhbs_4fW_MkrLC_Xg_kTu}
 
-.............Flag =  FL1TZ{somet_ing_ometh_ng_ome}
+ *  Flag =  FL1TZ{somet_ing_ometh_ng_ome}  
 
 ## Alphabetical order of each letter
 |            |      |      |      |      |      |
@@ -13,6 +13,7 @@ Ciphertext = KR1BI{CAhbs_4fW_MkrLC_Xg_kTu}
 | FL1TZ      |  6   |  12  |  $   |  20  |  26  |
 | difference |  5   |  6   |  $   |  8   |  9   |
 
+* Notice how the **difference is increasing** by 1 each time
 ***
 ## Python Code
 ![carbon](https://github.com/user-attachments/assets/9756ac9b-c03a-4255-85bc-a23d46b2e22f)
